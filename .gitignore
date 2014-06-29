@@ -1,0 +1,25 @@
+## Build files
+*.o
+*.lo
+*.list
+libmad.la
+config.h
+mad.h
+Makefile
+msvc++/Makefile
+.deps/
+.libs/
+config.log
+config.status
+libtool
+stamp-h1
+
+## OSX junk
+.DS_Store
+.Trashes
+._*
+
+## Temporary files
+*.tmp
+*.swp
+*~
